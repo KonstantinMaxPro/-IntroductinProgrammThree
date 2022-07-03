@@ -41,3 +41,4 @@ Console.WriteLine($"2) Через цикл FOR с функцией Math.Pow ({in
  Console.ResetColor();
 PrintCubeNumberMath(inputNumber);
 Console.WriteLine("\n======================================\n");
+
