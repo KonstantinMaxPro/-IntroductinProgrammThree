@@ -1,0 +1,15 @@
+C:\Intel\GB\IntroductinProgrammThree\Task23\bin\Debug\net6.0\Task23.exe
+C:\Intel\GB\IntroductinProgrammThree\Task23\bin\Debug\net6.0\Task23.deps.json
+C:\Intel\GB\IntroductinProgrammThree\Task23\bin\Debug\net6.0\Task23.runtimeconfig.json
+C:\Intel\GB\IntroductinProgrammThree\Task23\bin\Debug\net6.0\Task23.dll
+C:\Intel\GB\IntroductinProgrammThree\Task23\bin\Debug\net6.0\Task23.pdb
+C:\Intel\GB\IntroductinProgrammThree\Task23\obj\Debug\net6.0\Task23.csproj.AssemblyReference.cache
+C:\Intel\GB\IntroductinProgrammThree\Task23\obj\Debug\net6.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intel\GB\IntroductinProgrammThree\Task23\obj\Debug\net6.0\Task23.AssemblyInfoInputs.cache
+C:\Intel\GB\IntroductinProgrammThree\Task23\obj\Debug\net6.0\Task23.AssemblyInfo.cs
+C:\Intel\GB\IntroductinProgrammThree\Task23\obj\Debug\net6.0\Task23.csproj.CoreCompileInputs.cache
+C:\Intel\GB\IntroductinProgrammThree\Task23\obj\Debug\net6.0\Task23.dll
+C:\Intel\GB\IntroductinProgrammThree\Task23\obj\Debug\net6.0\refint\Task23.dll
+C:\Intel\GB\IntroductinProgrammThree\Task23\obj\Debug\net6.0\Task23.pdb
+C:\Intel\GB\IntroductinProgrammThree\Task23\obj\Debug\net6.0\Task23.genruntimeconfig.cache
+C:\Intel\GB\IntroductinProgrammThree\Task23\obj\Debug\net6.0\ref\Task23.dll
