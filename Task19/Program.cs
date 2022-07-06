@@ -1,18 +1,6 @@
 ﻿int inputNumber;
 string report;
-Console.WriteLine("======================================================\nПРОВЕРКА ЯВЛЯЕТСЯ ЛИ ЧИСЛО ПАЛИНДРОМОМ");
-Console.ForegroundColor = ConsoleColor.Yellow; 
-Console.WriteLine("Палиндром - число, буквосочетание, слово или текст, одинаково читающееся в обоих направлениях\n");
-Console.ResetColor();
 
-Console.Write("Введите целое число: ");
-while (!int.TryParse(Console.ReadLine(), out inputNumber))
-{
-    Console.ForegroundColor = ConsoleColor.Red; 
-    Console.WriteLine("ОШИБКА! ВЫ ВВЕЛИ НЕ ЦЕЛОЧИСЛЕННОЕ ЗНАЧЕНИЕ\n");
-    Console.ResetColor();
-    Console.Write("Введите целое число: ");
-}
 
 int Reversal(int number)
 {
@@ -26,8 +14,29 @@ int Reversal(int number)
     }    
 return reverseNumber;
 }
+
+
+
+
+Console.Clear();//Очищаем консоль
+/*ЗАГОЛОВОК (ДЛЯ КРАСОТЫ)*/
+Console.WriteLine("=======================================");
+Console.WriteLine("     ПРОВЕРКА ЧИСЛА НА ПАЛИНДРОМ");//Название
+Console.WriteLine("=======================================\n");
+/*КОНЕЦ ЗАГОЛОВКА*/
+
+Console.Write("Введите целое число: ");
+while (!int.TryParse(Console.ReadLine(), out inputNumber))
+{
+    Console.ForegroundColor = ConsoleColor.Red; 
+    Console.WriteLine("ОШИБКА! ВЫ ВВЕЛИ НЕ ЦЕЛОЧИСЛЕННОЕ ЗНАЧЕНИЕ\n");
+    Console.ResetColor();
+    Console.Write("Введите целое число: ");
+}
+
 int invertedNumber = Reversal(inputNumber);
-Console.Write("\nЧисло ");
+Console.WriteLine("\n======================================================");
+Console.Write("Число ");
 if(invertedNumber == inputNumber)
 {
     Console.ForegroundColor = ConsoleColor.Green; 
