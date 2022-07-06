@@ -15,9 +15,6 @@ int Reversal(int number)
 return reverseNumber;
 }
 
-
-
-
 Console.Clear();//Очищаем консоль
 /*ЗАГОЛОВОК (ДЛЯ КРАСОТЫ)*/
 Console.WriteLine("=======================================");
